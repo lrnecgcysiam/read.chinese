@@ -21,3 +21,8 @@ Git is a version control system and it allows a user to keep track of CHANGES wi
 repository which is just a folder of files.
 
 Keep your work public but not so easy to find and share the repository through other means.
+
+### About White Night Walk 白夜行 びゃくやこう
+
+This book was originally written in Japanese but I am reading the Chinese translated version 
+for academic purposes.
